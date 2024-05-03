@@ -10,6 +10,9 @@
     color: var(--branco-principal);
 }
 
+.titulo_principal{
+    color: #FFFFFF;
+}
 .principal {
     background-image: url(img/Background.png);
     background-repeat: no-repeat;

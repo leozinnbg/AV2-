@@ -28,5 +28,10 @@ body {
     display: block;
 }
 .botão_secundario{
-
+background-color: transparent;
+border: 1 em 0 2 em 0;
+}
+.container_imagem{
+    margin: 1 em 0 2 em 0;
+    
 }

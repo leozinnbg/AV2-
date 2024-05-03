@@ -15,12 +15,14 @@ body {
     background-repeat: no-repeat;
     background-size: contain;
 }
-.container{
+
+.container {
     height: 100vh;
     display: grid;
     grid-template-columns: 50% 50%;
 }
-.container_botão{
+
+.container_botão {
     background-color: #FF0000;
     border-radius: 5px;
     padding: 1em;
@@ -30,11 +32,13 @@ body {
     margin-bottom: 1em;
 
 }
-.botão_secundario{
-background-color: transparent;
-border: 1em 0 2em 0;
+
+.botão_secundario {
+    background-color: transparent;
+    border: 1em 0 2em 0;
 }
-.container_imagem{
+
+.container_imagem {
     margin: 1em 0 2em 0;
 
 }
